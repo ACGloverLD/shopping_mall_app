@@ -1,5 +1,5 @@
 # ld-shopping
-
+![image](商城首页.jpg)
 ## Project setup
 ```
 npm install
